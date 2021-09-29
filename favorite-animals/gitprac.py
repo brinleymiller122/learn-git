@@ -1,2 +1,1 @@
-
-fjksdbjb
+print ("NO")
